@@ -1,0 +1,28 @@
+name: Lavyz.com
+favicon: null
+layout_spectrum: 0.5737733554560691
+typography_spectrum: 0.17752599972300231
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8570214256178588
+  lightness: 0.937107500853017
+  saturation: 0.2077536394353956
+  rhythmicContrast: 0.9617089512757957
+purpose: []
